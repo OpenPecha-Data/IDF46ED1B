@@ -1,0 +1,27 @@
+id: IDF46ED1B
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-28T18:57:06+00:00'
+last_modified: '2022-06-08T14:32:28.041518+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1KG21700
+  title: མི་མངོན་པའི་འཆིང་ཐག
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  base:
+    6DDE:
+      image_group_id: I1KG21744
+      title: ''
+      total_pages: 268
+      order: 1
+      base_file: 6DDE.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
